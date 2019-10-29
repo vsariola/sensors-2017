@@ -85,3 +85,8 @@ demo_resistance_pressure.mat
 ============================
 
 Data related to Fig. 10, collected by A. Koivikko & V. Sariola. In this experiment, each of the three actuators of the three fingered gripper was pressurized sequentially. The actuators had silver sensors. This data corresponds to the supplementary video.
+
+gripper_18_5_2017_4271.mp4
+==========================
+
+Notice that this file is in GitLFS. This is the video recorded of the gripper experiment for the supplementary video.

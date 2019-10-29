@@ -19,6 +19,8 @@ How to use it?
 1. Change your Matlab directory to <reposity>/src
 2. Run any of the scripts "Fig_*.m" to recreate the particular figure.
 
+Run `SupplemenaryVideo.m` to recreate the supplementary video. Notice that the raw video data is in GitLFS, so you should have GitLFS installed to get the video from the repository.
+
 Data is under data/ directory. See data/README.md for documentation of the data files.
 
 License
